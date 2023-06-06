@@ -14,5 +14,7 @@ Iteratia 1
 Iteratia 2
 Iteratia 3
 
-Toate diagramele sunt in fisierul Diagrame
+Toate diagramele sunt in fisierul Diagrame.
+
+Nu am incarcat aplicatia :)
 
